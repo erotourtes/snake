@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\max\v_projects visualstudio\snakeconsole\snakeconsole\source.cpp(440): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  snakeConsole.vcxproj -> D:\Max\v_Projects VisualStudio\snakeConsole\Debug\snakeConsole.exe
+  snakeConsole.vcxproj -> D:\Max\v_Projects VisualStudio\snakeConsole\Debug\snakeConsole.pdb (Full PDB)
